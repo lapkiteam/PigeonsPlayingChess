@@ -6,6 +6,8 @@ tags:
 ---
 # Голуби ходят буквой Г
 
+![PigeonsPlayingChess](https://lapkiteam.github.io/PigeonsPlayingChess/PigeonsPlayingChess.webp)
+
 Голубь — вестник мира, пока не доходит до дележки частной собственности.
 
 Идею про [игру в шахматы с голубем](https://www.chess.com/blog/GrunkleMike/quote-of-the-week-well-2005-anyway) увёл из-под носа двух спорщиков. Шефа из «[Братьев Пилотов](https://ru.wikipedia.org/wiki/Братья_Колобки)» стащил из аватарки одного из участников. Все права на голубей, шахматы, слова, предложения, абзацы и параграфы принадлежат тому, кому принадлежат.
